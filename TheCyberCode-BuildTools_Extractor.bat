@@ -62,7 +62,7 @@ echo [BT Helper] Path Changed: %cd%
 echo [BT Helper] Current Path %cd% 
 set /p dSkip= [BT Helper] Type 1 to Skip Decompile if you want to decompile just hit enter: 
 if "%dSkip%" equ "1" goto:skip 
-if "%dSkip%" equ "1" goto:decompile
+if "%dSkip%" equ " " goto:decompile
 :decompile 
 echo [BT Helper] Press any key to continue or if you did this was wrong just close this file within 30 seconds. >> ..\cyberlog.txt
 echo [BT Helper] 30 Seconds Till Starting Decompile Or Hit Enter to start now! >> ..\cyberlog.txt
