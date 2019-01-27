@@ -3,7 +3,6 @@ echo [BT Helper] ----------------------------------- {%date% %time%} This Code I
 echo [BT Helper] --- Cyber's Links --- >> .\cyberlog.txt
 echo [BT Helper] Cyber's Spigot: https://www.spigotmc.org/members/thecybercode.358017/ >> .\cyberlog.txt
 echo [BT Helper] Cyber's GitHub: https://github.com/thecybercode >> .\cyberlog.txt
-echo [BT Helper] Cyber's Twitter: @AutisticTCC  >> .\cyberlog.txt
 echo [BT Helper] Cyber's YouTube: http://www.youtube.com/c/CyberTCC >> .\cyberlog.txt
 echo [BT Helper] ----------------------------------- {%date% %time%} This Code Is Made By TheCyberCode -----------------------------------
 title [BT Helper] Build Tools Helper by Cyber
