@@ -9,7 +9,6 @@ title [BT Helper] Build Tools Helper by Cyber
 echo [BT Helper] --- Cyber's Links ---
 echo [BT Helper] Cyber's Spigot: https://www.spigotmc.org/members/thecybercode.358017/
 echo [BT Helper] Cyber's GitHub: https://github.com/thecybercode 
-echo [BT Helper] Cyber's Twitter: @AutisticTCC
 echo [BT Helper] Cyber's YouTube: http://www.youtube.com/c/CyberTCC  
 echo [BT Helper] Welcome to the build tools extraction helper. >> .\cyberlog.txt
 echo [BT Helper] By Cyber >> .\cyberlog.txt
